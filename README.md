@@ -1,6 +1,6 @@
 # turtle_filesystem.py
 
-![](images/downloads_folder.png =1000x)
+![](images/downloads_folder.png){:class="img-responsive"}
 
 Create a visual representation of a folder structure
 
